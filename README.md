@@ -1,4 +1,4 @@
-# Compression_LZW_Hoffman
+# Compression_LZW_Huffman
 
 ## Description
 
