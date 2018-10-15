@@ -8,4 +8,4 @@ Compression avec l'algorithme de Hoffman et l'algorithme LZW.
 
 Alzahrâ Hassanein
 Mathieu Herranz Perez
-Hugo Di Giovanni
+Hugo Di Giovanni.
